@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- leftMenu数组 -->
+    <string-array name="array_left_func">
+        <item>我的服务</item>
+        <item>我的相册</item>
+        <item>设置中心</item>
+        <item>帮助</item>
+        <item>关于</item>
+    </string-array>
+<!-- aboutus数组 -->
+    <string-array name="array_aboutus">
+        <item>新版本升级</item>
+        <item>我要吐槽</item>
+        <item>分享二维码给好朋友</item>
+    </string-array>
+</resources>
